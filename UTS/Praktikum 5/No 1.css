@@ -1,0 +1,12 @@
+body {
+    align-items: center;
+}
+h2{
+    text-align: center;
+}
+.container{
+    margin: auto;
+    padding: 15px;
+    width: 350px;
+    border-style: groove;
+}
