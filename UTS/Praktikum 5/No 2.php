@@ -67,8 +67,8 @@
 					}
 					public static function main($args)
 					{
-						$man = new Manajer("Dwi", 7000000, 3000000);
-						$prog = new Programmer("Sri", 2000000, 1100000); 
+						$man = new Manajer("reza", 7000000, 3000000);
+						$prog = new Programmer("kyyy", 2000000, 1100000); 
 						$hr = new Bayaran();
 						echo "<br> Nama Manajer : ".$man->nama."<br> Gaji : Rp. ".strval($hr->hitungBayaran($man)) , "\n";
 				        echo "<br>";

@@ -69,10 +69,10 @@
 					public static
 					function main($args)
 					{
-						$peg1 = new Manajer("Dwi", 5000000); 
+						$peg1 = new Manajer("reza", 5000000); 
 						Soal1::Proses($peg1);
 				        echo "<br>", "<br>";
-						$peg2 = new Kurir("Sri", 200000); 
+						$peg2 = new Kurir("kyyy", 200000); 
 						Soal1::Proses($peg2);
 					}
 				}
